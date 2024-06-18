@@ -1,0 +1,8 @@
+¿Por qué es importante?
+  La POO es importante porque permite a los desarrolladores crear programas más grandes, complejos y fáciles de mantener. 
+  La POO también permite la reutilización del código, lo que significa que los desarrolladores pueden utilizar código existente para construir nuevos programas.
+Conceptos clave de la Programación Orientada a Objetos
+  Encapsulación: La encapsulación se refiere a la capacidad de ocultar los detalles de implementación de un objeto. Los objetos tienen datos y comportamientos, pero solo los comportamientos están disponibles para otros objetos. Los datos se mantienen privados y solo se pueden acceder a través de los métodos públicos de un objeto.
+  Abstracción: La abstracción se refiere a la capacidad de un objeto para presentar solo los detalles relevantes a otros objetos. Un objeto solo muestra lo que es importante para otros objetos y oculta la complejidad interna.
+  Herencia: La herencia permite que un objeto adquiera propiedades de otro objeto. Una clase puede heredar propiedades y comportamientos de otra clase. Esto permite la reutilización del código y la creación de jerarquías de clases.
+  Polimorfismo: El polimorfismo se refiere a la capacidad de un objeto para tener más de una forma. Un objeto puede tener varias formas dependiendo del contexto en el que se utilice.
